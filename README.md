@@ -66,10 +66,5 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 
-Contact
-
-Piyush Singh - marve33333@gmail.com - www.linkedin.com/in/piyush-singh-9b5276223
-
-Project Link: https://github.com/ReprisalGod/Esports.git
 
 
